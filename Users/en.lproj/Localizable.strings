@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Users
+
+  Created by channabasavesh chandrappa budihal on 12/11/18.
+  Copyright © 2018 channabasavesh chandrappa budihal. All rights reserved.
+*/
+
+"users" = "Users";
+"details" = "Details";
+"address" = "Address";
+"company" = "Company";
+"name" = "Name";
+"id" = "Id";
+"username" = "Username";
+"phone" = "Phone";
+"email" = "Email";
+"website" = "Website";
+"suite" = "Suite";
+"street" = "Street";
+"city" = "City";
+"zip_Code" = "Zip Code";
+"geo" = "Geo";
+"business_Service" = "Business Service";
+"catch_Phrase" = "Catch Phrase";
